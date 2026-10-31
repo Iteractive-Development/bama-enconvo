@@ -1,0 +1,39 @@
+{
+  "name": "bama-enconvo",
+  "owner": {
+    "name": "Iteractive Development",
+    "url": "https://iteractive.dev"
+  },
+  "description": "BAMA for Enconvo: research, plan, scaffold, design, code, and ship native macOS apps with Swift and SwiftUI - all 21 skills in one updatable plugin. Built from daveebbelaar/bama (MIT). By Iteractive Development.",
+  "plugins": [
+    {
+      "name": "bama-enconvo",
+      "source": "./marketplace/plugins/bama-enconvo",
+      "description": "Build any Mac app: skills to research, clone, plan, scaffold, design, integrate, optimize, test, and ship native macOS apps with Swift and SwiftUI.",
+      "author": {
+        "name": "Dave Ebbelaar",
+        "url": "https://github.com/daveebbelaar"
+      },
+      "category": "development",
+      "keywords": [
+        "accessibility",
+        "architecture",
+        "bama",
+        "clone",
+        "components",
+        "computer-use",
+        "design-kit",
+        "design-system",
+        "grid",
+        "liquid-glass",
+        "macos",
+        "performance",
+        "skills",
+        "swift",
+        "swiftdata",
+        "swiftui",
+        "ux"
+      ]
+    }
+  ]
+}
