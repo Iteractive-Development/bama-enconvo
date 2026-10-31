@@ -1,0 +1,104 @@
+{
+  "repos": [
+    {
+      "path": "/Users/bradhallett/Projects/Agent Plugins/bama",
+      "url": "https://github.com/daveebbelaar/bama",
+      "rel": "../bama"
+    }
+  ],
+  "adapter_dir": "/Users/bradhallett/Projects/Agent Plugins/bama-enconvo",
+  "workspace": "/Users/bradhallett/Projects/Agent Plugins",
+  "prefix": "bama",
+  "plugin_name": "bama-enconvo",
+  "marketplace_name": "bama-enconvo",
+  "category": "development",
+  "marketplace_description": "BAMA for Enconvo: research, plan, scaffold, design, code, and ship native macOS apps with Swift and SwiftUI - all 21 skills in one updatable plugin. Built from daveebbelaar/bama (MIT). By Iteractive Development.",
+  "owner": {
+    "name": "Iteractive Development",
+    "url": "https://iteractive.dev"
+  },
+  "flatten": true,
+  "agents": {
+    "enabled": true,
+    "title_prefix": "Bama",
+    "shared_skills": {
+      "app-brief": [
+        "start",
+        "plan"
+      ],
+      "ux-design": [
+        "design",
+        "plan",
+        "code"
+      ],
+      "swift-swiftui": [
+        "code",
+        "start"
+      ],
+      "mac-design": [
+        "design",
+        "code"
+      ],
+      "layout-grid": [
+        "design",
+        "ship"
+      ]
+    }
+  },
+  "groups": {
+    "start": {
+      "description": "Turns an idea into a one-page brief and scaffolds the project.",
+      "skills": [
+        "app-brief",
+        "bama",
+        "new-mac-app",
+        "swift-swiftui"
+      ]
+    },
+    "plan": {
+      "description": "Research, walkthrough, brief, story backlog. Shares app-brief (with start) and ux-design (with design).",
+      "skills": [
+        "app-brief",
+        "clone",
+        "research",
+        "user-stories",
+        "ux-design"
+      ]
+    },
+    "code": {
+      "description": "Swift and SwiftUI code, system integrations, performance, architecture, the backlog loop, agent CLI. Shares mac-design and ux-design with design, swift-swiftui with start.",
+      "skills": [
+        "agent-cli",
+        "improve-architecture",
+        "improve-loop",
+        "os-integrations",
+        "performance",
+        "swift-swiftui",
+        "mac-design",
+        "ux-design"
+      ]
+    },
+    "design": {
+      "description": "Look and behavior: Liquid Glass, UX flows, tokens, kits, grid, icons.",
+      "skills": [
+        "app-icon",
+        "design-from-app",
+        "design-kit",
+        "design-system",
+        "layout-grid",
+        "mac-design",
+        "ux-design"
+      ]
+    },
+    "ship": {
+      "description": "Build and verify, tests. Shares layout-grid with design.",
+      "skills": [
+        "build-and-verify",
+        "layout-grid",
+        "test-mac-app"
+      ]
+    }
+  },
+  "plugin_title": "Bama",
+  "plugin_category": "Developer Tools"
+}
