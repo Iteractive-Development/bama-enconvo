@@ -1,12 +1,33 @@
 {
   "name": "bama-enconvo",
   "version": "1.0.0",
-  "description": "Build any Mac app: skills to research, clone, plan, scaffold, design, integrate, optimize, test, and ship native macOS apps with Swift and SwiftUI.",
+  "displayName": "Bama",
+  "description": "Build any Mac app: skills to research, clone, plan, scaffold, design, integrate, optimize, test, and ship native macOS apps with Swift and SwiftUI. Built from daveebbelaar/bama (MIT).",
   "author": {
-    "name": "Iteractive Development"
+    "name": "Iteractive Development",
+    "url": "https://iteractive.dev"
   },
   "homepage": "https://iteractive.dev",
   "license": "MIT",
+  "keywords": [
+    "accessibility",
+    "architecture",
+    "bama",
+    "clone",
+    "components",
+    "computer-use",
+    "design-kit",
+    "design-system",
+    "grid",
+    "liquid-glass",
+    "macos",
+    "performance",
+    "skills",
+    "swift",
+    "swiftdata",
+    "swiftui",
+    "ux"
+  ],
   "agents": [
     "agents/code.md",
     "agents/design.md",
