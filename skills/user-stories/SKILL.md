@@ -1,7 +1,6 @@
 ---
 name: user-stories
 description: Prioritized backlog of user stories with checkable acceptance criteria (docs/STORIES.md) for a macOS app, built from a brief, research, or screen index. Use after app-brief or clone, or when the user asks for user stories, a backlog, a feature list, or "what do we build first".
-visibility: scoped
 ---
 
 # User stories

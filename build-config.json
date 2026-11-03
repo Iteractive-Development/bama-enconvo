@@ -1,13 +1,13 @@
 {
   "repos": [
     {
-      "path": "/Users/bradhallett/Projects/Agent Plugins/bama",
+      "path": "../../../Projects/Agent Plugins/bama",
       "url": "https://github.com/daveebbelaar/bama",
       "rel": "../bama"
     }
   ],
-  "adapter_dir": "/Users/bradhallett/Projects/Agent Plugins/bama-enconvo",
-  "workspace": "/Users/bradhallett/Projects/Agent Plugins",
+  "adapter_dir": "../../../Projects/Agent Plugins/bama-enconvo",
+  "workspace": "../../../Projects/Agent Plugins",
   "prefix": "bama",
   "plugin_name": "bama-enconvo",
   "marketplace_name": "bama-enconvo",

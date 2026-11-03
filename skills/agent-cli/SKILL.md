@@ -2,7 +2,6 @@
 name: agent-cli
 description: Optional command line and MCP server for a macOS app, so Claude Code, Codex, and scripts can drive it (list, add, change, search, act) through the running app. Use when the user wants agents to work with their app or its data, asks for a CLI, an MCP server, or automation for the app, or says "Claude should be able to use my app".
 argument-hint: "<cli-name, like tasks or mail>"
-visibility: scoped
 ---
 
 # Agent CLI

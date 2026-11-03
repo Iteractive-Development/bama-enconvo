@@ -1,0 +1,17 @@
+{
+  "name": "bama-enconvo",
+  "version": "1.0.0",
+  "description": "Build any Mac app: skills to research, clone, plan, scaffold, design, integrate, optimize, test, and ship native macOS apps with Swift and SwiftUI.",
+  "author": {
+    "name": "Iteractive Development"
+  },
+  "homepage": "https://iteractive.dev",
+  "license": "MIT",
+  "agents": [
+    "agents/code.md",
+    "agents/design.md",
+    "agents/plan.md",
+    "agents/ship.md",
+    "agents/start.md"
+  ]
+}

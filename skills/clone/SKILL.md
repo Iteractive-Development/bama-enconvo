@@ -2,7 +2,6 @@
 name: clone
 description: Walk through any existing app (native Mac app with computer use, web app with a browser), screenshot every screen, menu, and dialog, write a screen index, and turn it into user stories. Use when the user wants to clone, rebuild, replace, or copy the design of an app, or says "screenshot every screen".
 argument-hint: "<app name as shown in the menu bar, or a URL>"
-visibility: scoped
 ---
 
 # Clone

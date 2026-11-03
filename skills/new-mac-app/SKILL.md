@@ -3,7 +3,6 @@ name: new-mac-app
 description: Create a native macOS SwiftUI app from a working template (Swift package, SwiftData, build script, icon script, snapshot mode, git), with no Xcode GUI. Use when the user wants to start a new Mac app or scaffold a macOS project.
 argument-hint: "<AppName> <bundle-id> [parent-folder]"
 allowed-tools: Bash(*/new-app.sh *) Bash(git *) Bash(swift *) Read Write Edit
-visibility: scoped
 ---
 
 # New Mac app

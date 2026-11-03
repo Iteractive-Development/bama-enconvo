@@ -2,7 +2,6 @@
 name: build-and-verify
 description: Build a SwiftUI macOS app from the command line, install it, and check light and dark window snapshots of every page before calling a change done. Use after any UI code change, when a build fails, or when the user asks to run, screenshot, or check the app.
 allowed-tools: Bash(./build.sh*) Bash(swift *) Bash(tools/*) Bash(*/Contents/MacOS/*) Bash(open *) Read
-visibility: scoped
 ---
 
 # Build and verify

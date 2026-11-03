@@ -1,7 +1,6 @@
 ---
 name: performance
 description: Make a macOS app fast by measuring hangs, stutter, CPU, memory, and energy, then moving work off the main thread and onto the GPU. Use when the app freezes, a shortcut feels slow, dragging stutters, the fan spins, memory grows, or the user asks to optimize or profile.
-visibility: scoped
 ---
 
 # Performance

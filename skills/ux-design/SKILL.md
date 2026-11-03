@@ -2,7 +2,6 @@
 name: ux-design
 description: UX pass for one feature of a macOS app, covering names, flow, where it opens (inline, popover, sheet, window, alert), states, words, hover help, accessibility, and AI features. Use before coding a story that adds a screen, an action, or text, when user-stories or improve-loop call it, or when the user asks for a UX review, clearer wording, better names, or whether something should be a modal.
 argument-hint: "[story ID or screen]"
-visibility: scoped
 ---
 
 # UX design

@@ -1,7 +1,6 @@
 ---
 name: design-kit
 description: Custom design system for a macOS SwiftUI app with its own parts, not Apple's, covering three token layers, type, an icon set, every part in every state, custom window chrome, a parts gallery, and checks. Use when the user wants the app to have its own look and feel, a brand, or custom buttons, rows, and sidebars, when design-from-app has measured a reference app, or when the user asks for a design system or component library.
-visibility: scoped
 ---
 
 # Design kit

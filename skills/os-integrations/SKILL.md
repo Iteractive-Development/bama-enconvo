@@ -1,7 +1,6 @@
 ---
 name: os-integrations
 description: Deep macOS integrations for a native app, such as global hotkeys, menu bar items, floating panels, window control with Accessibility, screen capture and recording, clipboard, Shortcuts and Spotlight, URL schemes, login items, a CLI, and the permissions each one needs. Use when an app must reach outside its own window or control other apps.
-visibility: scoped
 ---
 
 # macOS integrations

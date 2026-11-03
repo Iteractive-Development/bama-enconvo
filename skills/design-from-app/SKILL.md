@@ -2,7 +2,6 @@
 name: design-from-app
 description: Rebuild the look of an app the user likes as a native SwiftUI design kit, by measuring its screenshots (sizes, spacing, type, colors, icons), building its parts, and comparing pixel by pixel until they match. Use when the user names an app whose look they want, shares screenshots of one, or says "make it look like X".
 argument-hint: "<app name or screenshot paths>"
-visibility: scoped
 ---
 
 # Design from app

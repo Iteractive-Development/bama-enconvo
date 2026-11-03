@@ -2,7 +2,6 @@
 name: research
 description: Online research for a macOS app before building it, run as parallel researcher subagents, saved to docs/research/. Use when the user asks what to build, which features matter, how the best apps in a category work, how a macOS API or integration works, or wants a feature comparison.
 argument-hint: "<app category or question>"
-visibility: scoped
 ---
 
 # Research

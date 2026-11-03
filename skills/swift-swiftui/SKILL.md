@@ -1,7 +1,6 @@
 ---
 name: swift-swiftui
 description: Swift 6 and SwiftUI code rules for macOS apps, including concurrency, state, SwiftData, AppKit bridges, and fixes for common compiler errors. Use when writing, reviewing, or debugging Swift code in a Mac app, or on concurrency, Sendable, or "not in scope" errors.
-visibility: scoped
 ---
 
 # Swift and SwiftUI

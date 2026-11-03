@@ -1,7 +1,6 @@
 ---
 name: improve-architecture
 description: Architecture check-in for a growing macOS Swift codebase. Finds hot spots, proposes deeper modules, and refactors one step per commit with behavior proven unchanged. Use at the end of a milestone, before a big feature, when a file passes 600 lines, when one feature touches many files, when bugs repeat in one area, or when the user asks to refactor or clean up the code.
-visibility: scoped
 ---
 
 # Improve architecture

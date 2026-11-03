@@ -2,7 +2,6 @@
 name: app-icon
 description: Liquid Glass macOS app icon made as an Icon Composer file (Icon/AppIcon.icon, JSON plus SVG layers), compiled with actool, and reviewed in every look with ictool. Use when the user wants an app icon, a better icon, or a Dock icon.
 allowed-tools: Bash(tools/make_icon.sh) Bash(tools/icon_review.sh) Bash(./build.sh *) Read Edit Write
-visibility: scoped
 ---
 
 # App icon

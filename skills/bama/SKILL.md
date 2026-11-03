@@ -2,7 +2,6 @@
 name: bama
 description: Build any Mac app. Start here to pick the next skill for a native macOS app.
 disable-model-invocation: true
-visibility: scoped
 ---
 
 # Build any Mac app
